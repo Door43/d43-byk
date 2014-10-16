@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[byk:home|Door43 (byk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-byk|d43-byk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-byk/archive/master.zip|d43-byk.zip]]
+
+**Recent Changes**
+{{changes>ns = byk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/byk|Ethnologue data]]
+
